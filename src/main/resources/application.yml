@@ -3,7 +3,7 @@ server:
   
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/microservices_qualification
+    url: jdbc:mysql://localhost:3306/microservice_qualification
     username: root
     password: yare1502
   jpa: 
